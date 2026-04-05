@@ -42,7 +42,11 @@ No ads. No manipulation. No platform optimizing against your interests.
 
 ## Part 1: The Core Engine and the Autonomous Taste Graph
 
-The foundation of the Sovereign Agent is the **Taste Graph**. If an AI agent is going to make decisions on your behalf, it must develop a highly accurate model of your preferences. The traditional method of building user profiles is fundamentally broken.
+The foundation of the Sovereign Agent is the **Taste Graph**. 
+
+If an AI agent is going to make decisions on your behalf, it must develop a highly accurate model of your preferences. A Taste Graph is not a static profile, a list of checkboxes, or a demographic bucket. It is a living, multi-dimensional map of the user's mind. It understands that human taste is a web of interconnected concepts. It recognizes that a preference for mid-century modern furniture is mathematically linked to a preference for minimalist architecture, which in turn correlates with an affinity for certain types of jazz and specific culinary experiences. 
+
+By mapping these connections, the agent builds an intuition that is often more accurate than the user's own self-perception. However, the traditional method of building these user profiles is fundamentally broken.
 
 ### The Flaw of Explicit Input
 

@@ -18,7 +18,11 @@ We are entering the Preference Economy. In this new era, AI agents act as sovere
 
 To dismantle the Attention Economy, we must build the infrastructure for the Preference Economy. The first step is building the **Sovereign Discovery Agent**—a privacy-first, user-centric discovery layer that sits between the individual and the internet.
 
-Instead of a search engine, the user employs a personal AI agent with a cryptographically secure understanding of their preferences — a **Taste Graph** — that scours the internet, negotiates with other agents, and pays for premium data autonomously.
+Instead of a search engine, the user employs a personal AI agent with a cryptographically secure understanding of their preferences — a **Taste Graph**. 
+
+The Taste Graph is not a static profile or a list of checkboxes. It is a living, multi-dimensional map of the user's mind. It understands that a preference for mid-century modern furniture is mathematically linked to a preference for minimalist architecture and certain types of jazz. By silently observing the user's choices (implicit signals) rather than asking them what they like (explicit input), the agent builds an intuition that is more accurate than the user's own self-perception. 
+
+Armed with this Taste Graph, the agent scours the internet, negotiates with other agents, and pays for premium data autonomously, returning only the exact right match.
 
 ## The Blueprint
 
