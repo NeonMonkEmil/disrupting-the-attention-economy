@@ -230,4 +230,4 @@ If you want to think through building this — or something like it — [reach o
 
 ---
 
-*This document is released without copyright restrictions. Take it. Build it. Make it better. Buy me a coffee*
+*This document is released without copyright restrictions. Take it. Build it. Make it better. buymeacoffee.com/oddy_werk*
