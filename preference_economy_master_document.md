@@ -225,9 +225,8 @@ This document is that idea. Fork it. Build your version. The scarcity of buildin
 ## Author
 
 This was written by **oddy_werk**
-
-If you want to think through building this — or something like it — [reach out](https://neonmonk.se) or X handle @oddy_werk.
+[reach out](https://neonmonk.se)NEON MONK or X handle @oddy_werk.
 
 ---
 
-*This document is released without copyright restrictions. Take it. Build it. Make it better. buymeacoffee.com/oddy_werk*
+*This document is released without copyright restrictions. Take it. Build it. Make it better. [BuyMeACoffee]https://buymeacoffee.com/oddy_werk*
