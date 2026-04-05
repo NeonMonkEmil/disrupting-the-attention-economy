@@ -4,19 +4,23 @@
 > 
 > *In the agentic era, the scarcity of building has hit zero. The new scarcity is knowing what to build and why. This repository contains the complete architectural, economic, and strategic blueprint for dismantling the Attention Economy. It is free to read, free to fork, and free to build.*
 
-## The Big Idea
+## The Problem: The Attention Economy
 
-For the past two decades, the internet has been governed by the Attention Economy. The user is not the customer; the user is the product. The discovery mechanism of the internet (search engines, social feeds, recommendation algorithms) has been captured by centralized platforms that optimize for their own ad revenue, not for user satisfaction.
+For 25 years, Google, Meta, and Amazon have built trillion-dollar businesses on a single premise: that the discovery mechanism of the internet is working for you. It isn't. It is working for the advertiser.
 
-The advent of agentic artificial intelligence makes this model obsolete. We are entering the **Preference Economy**. In this new era, AI agents act as sovereign market participants. They do not click on ads. They execute tasks based purely on the exact preferences of the user they represent.
+In the Attention Economy, the user is not the customer. The user is the product. When you type a query into Google or search for a product on Amazon, the underlying algorithm is not trying to find the best possible result for your specific needs. The algorithm is trying to find the result that will keep you engaged the longest, or the result that an advertiser paid the most money to place in front of your eyes. 
 
-To understand the structural flaws of the incumbents and the vision for the open agentic economy, start here:
+The incumbents are aggressively building AI features, but they are constrained by a fundamental structural problem: **their business model is built on advertising.** An AI agent that works perfectly for the user is an existential threat to their core revenue stream. They are constitutionally incapable of building a truly sovereign agent. This is the blind spot that independent builders must exploit.
 
-📄 **[Read the Vision: Disrupting the Attention Economy](disrupting_the_attention_economy.md)**
+## The Solution: The Preference Economy
 
-## The Blueprint
+We are entering the Preference Economy. In this new era, AI agents act as sovereign market participants. They do not click on ads. They do not get distracted by sponsored listings. They execute tasks based purely on the exact preferences of the user they represent.
 
 To dismantle the Attention Economy, we must build the infrastructure for the Preference Economy. The first step is building the **Sovereign Discovery Agent**—a privacy-first, user-centric discovery layer that sits between the individual and the internet.
+
+Instead of a search engine, the user employs a personal AI agent with a cryptographically secure understanding of their preferences — a **Taste Graph** — that scours the internet, negotiates with other agents, and pays for premium data autonomously.
+
+## The Blueprint
 
 The full strategic and technical blueprint for building this agent is available in the master document:
 
@@ -40,7 +44,7 @@ This is the idea file for the Preference Economy. If you are a builder, a founde
 
 If you find this blueprint valuable, if it sparks your next startup, or if you just want to support open-source strategic thinking, you can buy me a coffee:
 
-☕ **[Buy me a coffee](https://buymeacoffee.com/oddy_werk)**
+☕ **[Buy me a coffee](https://www.buymeacoffee.com/oddy_werk)** (Replace with actual link)
 
 ---
 *Authored by [@oddy_werk](https://x.com/oddy_werk)*
