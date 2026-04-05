@@ -224,7 +224,7 @@ This document is that idea. Fork it. Build your version. The scarcity of buildin
 
 ## Author
 
-This was written by **oddy_werk** — entrepreneur, AI strategist, founder of [NeonMonk](https://neonmonk.se), an AI consultancy that builds rather than presents.
+This was written by **oddy_werk**
 
 If you want to think through building this — or something like it — [reach out](https://neonmonk.se) or X handle @oddy_werk.
 
