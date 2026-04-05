@@ -44,7 +44,7 @@ This is the idea file for the Preference Economy. If you are a builder, a founde
 
 If you find this blueprint valuable, if it sparks your next startup, or if you just want to support open-source strategic thinking, you can buy me a coffee:
 
-☕ **[Buy me a coffee](https://www.buymeacoffee.com/oddy_werk)** (Replace with actual link)
+☕ **[Buy me a coffee](https://buymeacoffee.com/oddy_werk)**
 
 ---
 *Authored by [@oddy_werk](https://x.com/oddy_werk)*
