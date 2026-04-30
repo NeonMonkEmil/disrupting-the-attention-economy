@@ -34,7 +34,7 @@ The full strategic and technical blueprint for building this agent is available 
 
 1. **The Autonomous Taste Graph:** Why static onboarding fails, and how to build a local-first, native graph database (a "Headless Obsidian") that learns user preferences through implicit signals.
 2. **The Multi-Agent Ecosystem:** The architecture of the Monitor Agent (local observation), the Discoverer Agent (cloud search), and the Purchaser Agent (backend payments).
-3. **The Two-Layer Payment Architecture:** How to solve the psychology of "Free" by abstracting Web3 crypto payments (x402 protocol, Solana, USDC) behind a frictionless Web2 credit system (Stripe, Apple Pay).
+3. **The Two-Layer Payment Architecture:** How to solve the psychology of "Free" by abstracting agentic crypto payments behind a frictionless Web2 credit system. *(Note: As of Stripe Sessions 2026, Stripe is actively building this exact infrastructure natively via their Agentic Commerce Suite).*
 4. **The Technical Build Roadmap:** A four-phase plan to build the platform from MVP to full agentic economy integration.
 5. **The Privacy Philosophy:** Why absolute, local-first data sovereignty (including an "Amnesia Button") is the ultimate commercial moat against incumbent tech monopolies.
 

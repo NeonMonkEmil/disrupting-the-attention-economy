@@ -119,12 +119,12 @@ The user sees this layer only. It feels like a gift card or mobile game credits.
 
 ### Layer 2: The Agentic Infrastructure
 
-Operates entirely behind the scenes.
+Operates entirely behind the scenes. *Note: As of Stripe Sessions 2026, Stripe has announced native support for this exact infrastructure via their Agentic Commerce Suite, meaning this layer can now be built almost entirely within the Stripe ecosystem.*
 
-- Stripe fiat → USDC (via Coinbase Developer Platform or Circle)
-- Fast blockchain (Solana) for speed and low fees
-- Unique programmatic wallet per user agent
+- Stripe fiat → Stablecoins (native Stripe support)
+- Unique programmatic wallet per user agent (via Stripe Issuing for Agents)
 - The **x402 protocol**: when the Discoverer hits an HTTP 402 "Payment Required" response, the Purchaser autonomously signs a transaction and retrieves the data in milliseconds
+- Streaming payments: paying in real-time micro-increments as value is delivered
 - KYC burden stays centralized — the user never touches crypto
 
 ### The Business Model
@@ -143,8 +143,8 @@ Next.js or React Native frontend, Supabase, Stripe. Build the credit ledger. Pro
 **Phase 2 — The Native Graph Engine**
 Integrate SQLite into the app sandbox. Implement React Flow visualization. Deploy local embedding models (Transformers.js). Prove the Monitor Agent can silently build a Taste Graph that generates superior recommendations.
 
-**Phase 3 — The Web3 Backend**
-Coinbase Developer Platform or Circle Programmable Wallets on Solana. Create unique wallet addresses per user agent. Automate the Stripe → USDC treasury conversion.
+**Phase 3 — The Agentic Backend**
+Integrate Stripe's Agentic Commerce Suite. Create unique agent wallets via Stripe Link. Automate the fiat-to-stablecoin treasury conversion natively within Stripe, bypassing the need for a separate Web3 infrastructure provider.
 
 **Phase 4 — The Discovery Layer**
 Program agents to recognize HTTP 402 requests and execute x402 payments. Build fallback mechanisms using paid scraping APIs for sites that don't yet accept crypto micropayments.
@@ -177,7 +177,7 @@ Five years ago, building this required solving a dozen unsolved engineering prob
 
 - ✅ **MCP** (Anthropic) — standardized way for agents to connect to external tools
 - ✅ **x402 protocol** (Coinbase) — standardized way for agents to pay for data over HTTP
-- ✅ **Solana** — speed and fees necessary for micropayments at scale
+- ✅ **Agentic Commerce Suite** (Stripe) — native fiat-to-stablecoin agent wallets and streaming payments (announced at Sessions 2026)
 - ✅ **On-device embedding models** — powerful enough to run on consumer hardware
 
 The window of opportunity is open right now.
