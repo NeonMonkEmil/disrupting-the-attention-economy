@@ -54,6 +54,13 @@ If you want to understand exactly how this is built, the local-first graph archi
 
 📄 **[Read the Technical Blueprint](preference_economy_master_document.md)**
 
+## Frequently Asked Questions
+
+**"Don't ChatGPT, Perplexity, and Meta already have all this data about me?"**
+On the surface, yes. In practice, no. And the difference is everything. Read the full breakdown of why this is structurally different from the incumbents:
+
+📄 **[Why is this different from ChatGPT?](WHY_NOT_CHATGPT.md)**
+
 ## The Long-Term Vision: The Preference Economy
 
 The product starts as a personal discovery tool. The long-term vision is an open agentic economy where every restaurant, musician, bookseller, and retailer publishes their offerings in a machine-readable format to an open registry. Your agent queries that registry directly, finds the exact match, and completes the transaction without a single ad being served and without Google, Meta, or Amazon taking a cut.
